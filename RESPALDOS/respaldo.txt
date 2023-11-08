@@ -1,0 +1,15 @@
+select
+show
+back respaldo
+
+Todo debe ser transaccional
+
+
+respaldo
+-o dirige al archivo (dentro de backiup cree una cuestion archivo -o a otro archivo)
+
+dobles comillas en windows
+
+quitar nodos
+remove and delete
+
